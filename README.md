@@ -35,17 +35,3 @@ This repository is ideal for beginners learning **FastAPI**, **ML model deployme
 - Pandas  
 - Pickle  
 
----
-
-## 📁 Project Structure
-
-FastAPI/
-│
-├── app.py                     # Main FastAPI application
-├── main.py                    # Additional API setup (if applicable)
-├── BankNotes.py               # Prediction logic
-├── classifier.pkl             # Trained ML model
-├── ModelTraining.ipynb        # Model training notebook
-├── BankNote_Authentication.csv# Dataset
-├── requirements.txt           # Project dependencies
-└── README.md                  # Project documentation
